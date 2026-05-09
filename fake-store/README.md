@@ -1,3 +1,26 @@
+# Fake Store Cart App
+
+A ReactJS shopping cart application using Fake Store API.
+
+## Features
+
+- Fetch products from Fake Store API
+- Add products to cart
+- Prevent duplicate cart items
+- Responsive UI using Tailwind CSS
+- Cart modal popup
+- Remove items from cart
+- Dynamic cart count in navbar
+
+## Technologies Used
+
+- ReactJS
+- JavaScript
+- Tailwind CSS
+- HTML/CSS
+
+## Installation
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
